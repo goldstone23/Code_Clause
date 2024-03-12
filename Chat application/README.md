@@ -1,4 +1,4 @@
-# neuralintents
+# chat app
 
 Still in a buggy alpha state.
 
