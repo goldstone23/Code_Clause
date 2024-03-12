@@ -1,4 +1,4 @@
-# [Build a News Aggregator With Django][published url]
+# Build a News Aggregator With Django
 ## Instructor: Paras Saini
 
 
